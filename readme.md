@@ -65,4 +65,3 @@ All visuals and calculations are built entirely in **Microsoft Excel** using for
 
 ---
 
-## 📁 Repository Structure
