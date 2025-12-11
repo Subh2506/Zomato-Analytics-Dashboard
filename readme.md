@@ -63,5 +63,4 @@ All visuals and calculations are built entirely in **Microsoft Excel** using for
 2. Open it in Microsoft Excel (desktop version recommended).  
 3. Use the slicers and filters to interact with the dashboard and explore different insights.  
 
----
 
